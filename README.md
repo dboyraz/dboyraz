@@ -1,1 +1,1 @@
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dboyraz&theme=github_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dboyraz&theme=github_dark) 
