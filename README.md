@@ -10,8 +10,6 @@ I’m building projects, improving my skills, and learning by doing.
 ![Static Badge](https://img.shields.io/badge/jupyter-gray?style=flat&logo=jupyter&logoColor=%23F37626)
 
 ![Static Badge](https://img.shields.io/badge/python-%23254e71?style=flat&logo=python&logoColor=%23DE5FE9)
-![Static Badge](https://img.shields.io/badge/go-%2308677e?style=flat&logo=go)
-![Static Badge](https://img.shields.io/badge/rust-%23f74c00?style=flat&logo=rust&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?logo=sqlite&logoColor=%234faae0)
 
 
